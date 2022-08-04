@@ -15,7 +15,7 @@
 <h1>Book STORE</h1>
 
 
-
+<span id="time" ></span>
 </div>
 
 <!--nav-->
@@ -180,7 +180,12 @@
 
 </footer>
 
+<script>
+setInterval(function(){
 
+window.time.innerHTML=new Date().toLocaleTimeString();
+},1000);
 
+</script>
   </body>
 </html>
