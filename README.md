@@ -11,5 +11,5 @@ Hi, I'm Ammar. You might recognize me as GitHub's mascot.
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+|     2| my sql    |
+|     3| Laravel       |
