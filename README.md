@@ -1,7 +1,7 @@
 # myproject
 my web sit
 
-##MY POJECT
+## MY POJECT
 #my poject notes
 my notes
 ## About me
